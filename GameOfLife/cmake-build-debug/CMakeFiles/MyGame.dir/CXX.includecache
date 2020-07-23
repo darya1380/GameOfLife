@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/darya/Desktop/Useful/GameOfLife/MyGame/Darya.h
+iostream
+-
+dirent.h
+-
+ctime
+-
+unistd.h
+-
+
+C:/Users/darya/Desktop/Useful/GameOfLife/MyGame/clui.h
+cstdio
+-
+cstdlib
+-
+csignal
+-
+conio.h
+-
+Windows.h
+-
+termios.h
+-
+unistd.h
+-
+sys/ioctl.h
+-
+
+C:/Users/darya/Desktop/Useful/GameOfLife/MyGame/main.cpp
+iostream
+-
+set
+-
+clui.h
+C:/Users/darya/Desktop/Useful/GameOfLife/MyGame/clui.h
+Darya.h
+C:/Users/darya/Desktop/Useful/GameOfLife/MyGame/Darya.h
+
